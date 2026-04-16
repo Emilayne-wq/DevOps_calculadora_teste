@@ -5,3 +5,6 @@ def sub(a, b):
     return a - b
 
 print(soma(2, 3))
+
+def mult(a, b):
+    return a * b
